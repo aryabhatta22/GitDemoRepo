@@ -1,0 +1,8 @@
+git add - staging file situation 
+git commit - name the added changes
+
+1 bgcolor
+2 deletion
+3... feature +1
+4.
+5.
